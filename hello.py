@@ -11,9 +11,3 @@
 
 print("Hello World")
 
-print ()
-
-# User-input "Hello" function
-hello = input ("Who would you like to say 'Hello' to?  Enter their name here: ")
-print ("Hello", hello)
-
